@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(212, 218, 134);
+}
+h1 {
+    color: aqua;
+    margin: 3rem;
+    padding: 3rem;
+    border: 2px solid green;
+    background-color: beige;
+}
